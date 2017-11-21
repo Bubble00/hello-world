@@ -2,4 +2,5 @@
 
 Hi all!
 
-Im Bubble. new here but I love coding!
+Im Bubble. New here but I love coding!
+Currently working as an Automation Tester
